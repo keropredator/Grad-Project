@@ -1,5 +1,5 @@
-data
-env
-logs
+/data
+/env
+/logs
 *.npy
 *.h5
